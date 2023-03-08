@@ -1,0 +1,20 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/StuSign",
+  "version": "0.1.1",
+  "dependencies": {},
+  "information": {
+    "name": "StuSign",
+    "description": "简洁的签到插件",
+    "author": "student_2333 <lgc2333@126.com>",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/lgc-LLSEDev/StuSign"
+  },
+  "placement": [
+    {
+      "source": "StuSign.lxl.js",
+      "destination": "plugins/StuSign.js"
+    }
+  ],
+  "possession": ["plugins/StuSign/"]
+}

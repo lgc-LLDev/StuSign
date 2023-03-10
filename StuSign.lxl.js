@@ -1,6 +1,6 @@
 /* global mc logger ll JsonConfigFile money Format */
 // LiteLoaderScript Dev Helper
-/// <reference path="d:\Coding\bds\.vscode\LLSEDevHelper/Library/JS/Api.js" />
+/// <reference path="../HelperLib/src/index.d.ts"/>
 
 const config = new JsonConfigFile('plugins/StuSign/config.json');
 const minMoney = config.init('minMoney', 500);

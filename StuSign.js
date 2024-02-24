@@ -65,7 +65,7 @@ setInterval(() => {
   }
 }, 1000);
 
-ll.registerPlugin('StuSign', '简洁的入服签到插件', [0, 1, 1], {
+ll.registerPlugin('StuSign', '简洁的入服签到插件', [0, 1, 3], {
   Author: 'student_2333',
   License: 'Apache-2.0',
 });

@@ -1,0 +1,10 @@
+{
+  "entry": "StuSign.js",
+  "name": "StuSign",
+  "type": "lse-quickjs",
+  "dependencies": [
+    {
+      "name": "legacy-script-engine-quickjs"
+    }
+  ]
+}

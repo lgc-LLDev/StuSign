@@ -31,7 +31,7 @@ lip install github.com/lgc-LLDev/StuSign
   "minMoney": 500,
 
   // 签到给予最多金钱数
-  "maxMoney": 2000
+  "maxMoney": 2000,
 }
 ```
 
